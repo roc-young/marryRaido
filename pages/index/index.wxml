@@ -1,6 +1,6 @@
 <image src="/images/logo.jpg" mod="widthFix" style="width:100%"></image>
 <view class='nav-title'>
-  <text>最近更新</text>
+  <text>最近更新1221</text>
   <view>
     <text>全部>></text>
   </view>
